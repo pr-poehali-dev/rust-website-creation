@@ -12,7 +12,7 @@ const Header = () => {
               <Icon name="Flame" size={24} className="text-white" />
             </div>
             <h1 className="text-2xl font-bold text-white font-oswald tracking-wider">
-              RUST
+              RUST SERVERS
             </h1>
           </div>
 
