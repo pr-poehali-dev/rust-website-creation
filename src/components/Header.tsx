@@ -22,25 +22,7 @@ const Header = () => {
               href="#"
               className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
             >
-              Главная
-            </a>
-            <a
-              href="#"
-              className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
-            >
-              Новости
-            </a>
-            <a
-              href="#"
-              className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
-            >
               Серверы
-            </a>
-            <a
-              href="#"
-              className="text-gray-300 hover:text-orange-500 transition-colors duration-300 font-medium"
-            >
-              Сообщество
             </a>
           </nav>
 
